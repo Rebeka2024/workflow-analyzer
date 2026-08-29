@@ -1,4 +1,4 @@
-# GTM AI Workflow Optimizer
+# 🦾 GTM AI Workflow Optimizer
 
 A Python project that analyzes business workflows and looks for areas where AI and automation could save time.
 
